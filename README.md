@@ -2,6 +2,10 @@
 
 Select countries to get the exchange rate for a specific amount
 
+## Demo
+
+https://tinasay.github.io/exchange-rate
+
 ## Project Specifications
 
 - Display UI with 2 select lists for countries and 2 inputs for amounts
